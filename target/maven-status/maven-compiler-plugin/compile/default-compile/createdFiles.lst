@@ -1,0 +1,6 @@
+com\hinderadrian\demo\model\Student.class
+com\hinderadrian\demo\SpringBootCourseAmigosCodeApplication.class
+com\hinderadrian\demo\service\StudentService.class
+com\hinderadrian\demo\dao\FakeStudentDaoImpl.class
+com\hinderadrian\demo\resource\StudentResource.class
+com\hinderadrian\demo\dao\StudentDao.class
